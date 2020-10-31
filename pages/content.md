@@ -1,5 +1,6 @@
 ---
 title: content
+public: true
 ---
 
-## 
+##
